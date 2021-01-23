@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="neo/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neo.iml" filepath="$PROJECT_DIR$/.idea/modules/neo.iml" group="neo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1934826133/react-native-community_art.iml" filepath="$PROJECT_DIR$/.idea/modules/-1934826133/react-native-community_art.iml" group="neo/react-native-community_art" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/888834766/react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/888834766/react-native-vector-icons.iml" group="neo/react-native-vector-icons" />
+    </modules>
+  </component>
+</project>
